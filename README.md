@@ -28,8 +28,7 @@
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=py,bash,linux,git,github,vscode,html,css,js)
-![skills](https://skillicons.dev/icons?i=nmap,burpsuite,metasploit,ghidra,ida,x64dbg,kali,assembly)
+![skills](https://skillicons.dev/icons?i=py,c,cpp,go,bash,linux,git,github,vscode,html,css,js)
 </div>
 
 
