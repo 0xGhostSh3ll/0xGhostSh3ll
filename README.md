@@ -29,13 +29,7 @@
 <div align="center">
 
 ![skills](https://skillicons.dev/icons?i=py,bash,linux,git,github,vscode,html,css,js)
-![Assembly](https://img.shields.io/badge/Assembly-x86%2Fx64-6E4C13?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-1E5AA8?style=for-the-badge)
-![x64dbg](https://img.shields.io/badge/x64dbg-2F4F4F?style=for-the-badge)
+![skills](https://skillicons.dev/icons?i=nmap,burpsuite,metasploit,ghidra,ida,x64dbg,kali,assembly)
 </div>
 
 
