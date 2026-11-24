@@ -10,52 +10,86 @@
 
 ## 👻 Hi, I'm C&C
 
-I'm a cybersecurity beginner who loves **CTFs** and **penetration testing**. I lead the **Transformers Team** and I'm learning something new every day.
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+I'm a cybersecurity beginner who loves **CTFs**, **exploit development** and **malware analysis**. I lead the **Transformers Team** and I'm learning something new every day.
 
-## 💫 About Me
-
-- 🎯 Currently learning **web application pentesting** and **privilege escalation**
+- 🎯 Currently learning **web pentesting** and **privilege escalation**
 - 🏴 Playing CTFs and labs on **TryHackMe** and **HackTheBox**
 - 🐛 Starting out in bug bounty on **HackerOne**
 - 👥 Team Leader of [**Transformers Team**](https://0xghostsh3ll.github.io/transformers_team/)
-- 💬 Ask me about: Linux, Python, Bash, recon
+- 🔬 Next goal: low-level exploitation and reverse engineering
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github.com/0xGhostSh3ll.png" width="250" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tools & Languages
+## 💻 Languages
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=py,bash,linux,git,github,vscode,html,css,js)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86%2Fx64-6E4C13?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
-## 🧰 Tech Stack
+## 🛠 Hacking Tools
 
 <div align="center">
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 </div>
 
+## 🦠 Malware Analysis Tools
+
+<div align="center">
+
+![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-1E5AA8?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-2F4F4F?style=for-the-badge)
+
+</div>
+
 ---
 
-## 🎓 Certifications
+## 🎓 Certification Goals
 
-| Certification | Status |
-|---|---|
-| CompTIA Security+ | 🎯 Goal |
-| eJPT | 📖 Studying |
-| PNPT | 🎯 Goal |
-| OSCP | 🎯 Long-term goal |
+<div align="center">
+
+| Badge | Certification | Status |
+|:---:|---|:---:|
+| ![Security+](https://img.shields.io/badge/Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white) | CompTIA Security+ | 🎯 Goal |
+| ![OSWE](https://img.shields.io/badge/OSWE-WEB--300-0E7490?style=for-the-badge) | OffSec Web Expert | 🎯 Goal |
+| ![OSED](https://img.shields.io/badge/OSED-EXP--301-9333EA?style=for-the-badge) | OffSec Exploit Developer | 🎯 Goal |
+| ![OSEP](https://img.shields.io/badge/OSEP-PEN--300-2E7D32?style=for-the-badge) | OffSec Experienced Penetration Tester | 🎯 Goal |
+| ![OSEE](https://img.shields.io/badge/OSEE-EXP--401-B91C1C?style=for-the-badge) | OffSec Exploitation Expert | 🎯 Goal |
+
+</div>
+
+---
+
+## 🌍 Conferences I Want to Attend
+
+<div align="center">
+
+![DEF CON](https://img.shields.io/badge/DEF_CON-000000?style=for-the-badge)
+![Black Hat](https://img.shields.io/badge/Black_Hat-1A1A1A?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -66,17 +100,6 @@ I'm a cybersecurity beginner who loves **CTFs** and **penetration testing**. I l
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xGh0stSh3ll)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/0xghostshell)
-
-</div>
-
----
-
-## 📫 Reach Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xGhostSh3ll)
-[![Website](https://img.shields.io/badge/Website-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://0xghostsh3ll.github.io/transformers_team/)
 
 </div>
 
