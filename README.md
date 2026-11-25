@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,100:00ff9c&height=200&section=header&text=0xGhostShell&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=root%40ghostshell%3A~%23+whoami;Cybersecurity+enthusiast;CTF+player+%7C+Team+Leader;Learning+pentesting+every+day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=root%40ghostshell%3A~%23+whoami;" />
 
 </div>
 
@@ -16,11 +16,9 @@
 
 ## 💫 About Me
 
-- 🎯 Currently learning **web application pentesting** and **privilege escalation**
-- 🏴 Playing CTFs and labs on **TryHackMe** and **HackTheBox**
-- 🐛 Starting out in bug bounty on **HackerOne**
-- 👥 Team Leader of [**Transformers Team**](https://0xghostsh3ll.github.io/transformers_team/)
-- 💬 Ask me about: Linux, Python, Bash, recon
+
+- 👥  [**Transformers Team**](https://0xghostsh3ll.github.io/transformers_team/)
+- 
 
 ---
 
